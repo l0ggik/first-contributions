@@ -5795,6 +5795,7 @@ Pooja Muthalik
 - [Paolo Manili](https://github.com/Delta-38)
 - [Steven Carton](https://github.com/introcart)
 - [Hvassaa](https://github.com/Hvassaa)
+- [Arne Mross] (https://github.com/l0ggik)
 - [Gustavo Silva](https://github.com/gstvds)
 - [Sofia Rivas](https://github.com/sofiarivas)
 - [Blaine Bateman](https://github.com/eafpres)
